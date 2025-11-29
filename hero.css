@@ -1,0 +1,87 @@
+.avatar1 {
+    position: absolute;
+    top: 10px;
+    right: 350px;
+}
+
+.avatar1 img {
+    width: 250px;
+    height: 250px;
+    border-radius: 50%;
+}
+
+.title1 {
+    position: absolute;
+    top: 0px;
+    left: 450px;
+    font-size: 100px;
+    color: #200101;
+}
+
+.powers1,
+.powers2,
+.powers3 {
+    
+    font-size: 30px;
+    color: #000000;
+    margin: 10px 0;
+}
+
+
+.weak1 {
+   
+   padding: 10px;
+    border-radius: 12px;
+    border-width: 2px;
+    position: absolute;
+    bottom: 220px;
+    left: 40px;
+    font-size: 30px;
+    color: #000000;
+}
+
+.miss1 {
+    position: absolute;
+    top: 160px;
+    left: 50px;
+    font-size: 45px;
+    color: #3c0606;
+}
+
+.miss {
+    position: absolute;
+    top: 240px;
+    width: 600px;
+    left: 50px;
+    font-size: 25px;
+    color: #000000;
+    border-radius: 12px;
+    padding: 10px;}
+
+body {
+    background-color: #000000;
+    background-image: url('./header.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin: 0;
+    font-family: Arial, sans-serif;
+    color: #11451d;
+}
+
+.sec {
+    border-radius: 12px;
+    padding: 10px;
+    width: 600px;
+    height: 200px;
+    position: absolute;
+    bottom: 8px ;
+    left: 40px ;
+}
+.press {
+    bottom: 5px;
+    right: 5px;
+    padding: 10px;
+    position: absolute;
+    font-size: 40px;
+
+}
